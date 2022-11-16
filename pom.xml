@@ -24,12 +24,12 @@
 		<dependency>
 			<groupId>io.dekorate</groupId>
 			<artifactId>kubernetes-spring-starter</artifactId>
-			<version>3.0.0</version>
+			<version>3.1.2</version>
 		</dependency>
 		<dependency>
 			<groupId>io.dekorate</groupId>
 			<artifactId>jib-annotations</artifactId>
-			<version>3.0.0</version>
+			<version>3.1.2</version>
 		</dependency>
 
 		<dependency>
